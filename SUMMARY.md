@@ -111,20 +111,20 @@
 
 ## 用户协议
 
-* [隐私条款](yong-hu-xie-y/yin-si-tiao-kuan.md)
-* [法律条款](yong-hu-xie-y/fa-lv-tiao-kuan.md)
-* [金融用户服务补充协议](yong-hu-xie-y/jin-rong-yong-hu-fu-wu-bu-chong-xie-yi.md)
-* [仓储服务用户补充协议](yong-hu-xie-y/cang-chu-fu-wu-yong-hu-bu-chong-xie-yi.md)
-* [物流运输服务用户补充协议](yong-hu-xie-y/wu-liu-yun-shu-fu-wu-yong-hu-bu-chong-xie-yi.md)
-* [保险服务用户补充协议](yong-hu-xie-y/bao-xian-fu-wu-yong-hu-bu-chong-xie-yi.md)
-* [代理报关服务用户补充协议](yong-hu-xie-y/dai-li-bao-guan-fu-wu-yong-hu-bu-chong-xie-yi.md)
-* [个人投资者用户补充协议](yong-hu-xie-y/ge-ren-tou-zi-zhe-yong-hu-bu-chong-xie-yi.md)
-* [质押业务协议](yong-hu-xie-y/zhi-ya-ye-wu-xie-yi.md)
-* [代理开证服务协议](yong-hu-xie-y/dai-li-kai-zheng-fu-wu-xie-yi.md)
-* [押汇协议](yong-hu-xie-y/ya-hui-xie-yi.md)
-* [垫税协议](yong-hu-xie-y/dian-shui-xie-yi.md)
-* [风险处置-拍卖协议](yong-hu-xie-y/feng-xian-chu-zhi-pai-mai-xie-yi.md)
-* [版权声明](yong-hu-xie-y/ban-quan-sheng-ming.md)
+* [隐私条款](yong-hu-xie-yi/yin-si-tiao-kuan.md)
+* [法律条款](yong-hu-xie-yi/fa-lv-tiao-kuan.md)
+* [金融用户服务补充协议](yong-hu-xie-yi/jin-rong-yong-hu-fu-wu-bu-chong-xie-yi.md)
+* [仓储服务用户补充协议](yong-hu-xie-yi/cang-chu-fu-wu-yong-hu-bu-chong-xie-yi.md)
+* [物流运输服务用户补充协议](yong-hu-xie-yi/wu-liu-yun-shu-fu-wu-yong-hu-bu-chong-xie-yi.md)
+* [保险服务用户补充协议](yong-hu-xie-yi/bao-xian-fu-wu-yong-hu-bu-chong-xie-yi.md)
+* [代理报关服务用户补充协议](yong-hu-xie-yi/dai-li-bao-guan-fu-wu-yong-hu-bu-chong-xie-yi.md)
+* [个人投资者用户补充协议](yong-hu-xie-yi/ge-ren-tou-zi-zhe-yong-hu-bu-chong-xie-yi.md)
+* [质押业务协议](yong-hu-xie-yi/zhi-ya-ye-wu-xie-yi.md)
+* [代理开证服务协议](yong-hu-xie-yi/dai-li-kai-zheng-fu-wu-xie-yi.md)
+* [押汇协议](yong-hu-xie-yi/ya-hui-xie-yi.md)
+* [垫税协议](yong-hu-xie-yi/dian-shui-xie-yi.md)
+* [风险处置-拍卖协议](yong-hu-xie-yi/feng-xian-chu-zhi-pai-mai-xie-yi.md)
+* [版权声明](yong-hu-xie-yi/ban-quan-sheng-ming.md)
 
 ## 产品发布进度
 
@@ -143,8 +143,4 @@
 * [自由贸易区块链网络](he-zuo-zi-yuan/zi-you-mao-yi-qu-kuai-lian-wang-luo.md)
 * [AOSChian](he-zuo-zi-yuan/aoschian.md)
 * [AOSPUB 区块链浏览器](he-zuo-zi-yuan/aospub-qu-kuai-lian-lan-qi.md)
-
-## test
-
-* [Untitled](test/untitled.md)
 
