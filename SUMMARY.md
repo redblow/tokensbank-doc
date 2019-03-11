@@ -126,9 +126,11 @@
 * [风险处置-拍卖协议](yong-hu-xie-y/feng-xian-chu-zhi-pai-mai-xie-yi.md)
 * [版权声明](yong-hu-xie-y/ban-quan-sheng-ming.md)
 
-## 产品发布进度
+## 产品进度
 
-* [产品发布路线图](chan-pin-fa-bu-jin-du/chanpinfabuluxiantu.md)
+* [产品发布路线图](chanpinjindu/chanpinfabuluxiantu.md)
+* [产品研发](chanpinjindu/chan-pin-yan-fa.md)
+* [市场推进](chanpinjindu/shi-chang-tui-jin.md)
 
 ## 关于我们
 
