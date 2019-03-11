@@ -134,6 +134,7 @@
 
 * [愿景](guan-yu-wo-men/yuan-jing.md)
 * [团队](guan-yu-wo-men/tuan-dui.md)
+* [风险投资人](guan-yu-wo-men/feng-xian-tou-zi-ren.md)
 * [社区](guan-yu-wo-men/she-qu.md)
 * [合作伙伴](guan-yu-wo-men/he-zuo-huo-ban.md)
 
