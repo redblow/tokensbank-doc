@@ -20,5 +20,3 @@ description: 共建共享，一起把风险关进笼子里！
 
 初期主要面向贸易金融，选择易变现、可控制、物权清晰的流通物资进行质押融资服务。
 
-![](../.gitbook/assets/tbktokensbank-guang-gao-1.gif)
-

@@ -8,6 +8,7 @@
 * [项目术语](jian-jie/xiangmushuyu.md)
 * [项目介绍](jian-jie/xiangmujieshao.md)
 * [核心概念：共建共享，把风险关进笼子里](jian-jie/hexingainin.md)
+* [汽车是TBK的第一个品类](jian-jie/qi-che-shi-tbk-de-di-yi-ge-pin-lei.md)
 * [我与你之间的关系](jian-jie/wo-yu-ni-zhi-jian-de-guan-xi.md)
 * [透明化价值](jian-jie/tou-ming-hua-jia-zhi.md)
 * [财务费用转为营销费用](jian-jie/cai-wu-fei-yong-zhuan-wei-ying-xiao-fei-yong.md)
