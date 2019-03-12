@@ -114,6 +114,7 @@
 
 * [隐私条款](yonghu-xieyi/yin-si-tiao-kuan.md)
 * [法律条款](yonghu-xieyi/fa-lv-tiao-kuan.md)
+* [用户协议](yonghu-xieyi/yong-hu-xie-yi.md)
 * [金融用户服务协议](yonghu-xieyi/jin-rong-yong-hu-fu-wu-bu-chong-xie-yi.md)
 * [仓储服务用户协议](yonghu-xieyi/cang-chu-fu-wu-yong-hu-bu-chong-xie-yi.md)
 * [物流运输服务用户协议](yonghu-xieyi/wu-liu-yun-shu-fu-wu-yong-hu-bu-chong-xie-yi.md)
