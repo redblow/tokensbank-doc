@@ -1,5 +1,5 @@
 ---
-description: 协议维护中
+description: 试用版
 ---
 
 # 用户协议
