@@ -33,5 +33,3 @@
 
 是的，你可以进一步降低风险了。
 
-![](../.gitbook/assets/tbktokensbank-guang-gao-1.gif)
-

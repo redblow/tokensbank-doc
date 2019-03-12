@@ -5,7 +5,7 @@
 ## 简介
 
 * [声明](jian-jie/sheng-ming.md)
-* [项目术语解释](jian-jie/xiang-mu-shu-yu-jie-shi.md)
+* [项目术语](jian-jie/xiang-mu-shu-yu-jie-shi.md)
 * [项目介绍](jian-jie/xiangmujieshao.md)
 * [核心概念：共建共享，把风险关进笼子里](jian-jie/he-xin-gai-nian.md)
 * [我与你之间的关系](jian-jie/wo-yu-ni-zhi-jian-de-guan-xi.md)
