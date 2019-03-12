@@ -107,7 +107,7 @@ cookies是网站存储在您的硬盘上的很小的数据文档。在其诸多�
 
 ### 关联公司
 
-本政策所称“关联公司”指的是直接或者间接控制 [DST](http://localhost:4900/www.dst.im) 中国，或受 [DST](http://localhost:4900/www.dst.im) 中国控制，或者与 [DST](http://localhost:4900/www.dst.im) 中国一起受共同控制的任何机构。 
+本政策所称“关联公司”指的是直接或者间接控制 [DST](http://localhost:4900/www.dst.im) ，或受 [DST](http://localhost:4900/www.dst.im) 控制，或者与 [DST](http://localhost:4900/www.dst.im) 一起受共同控制的任何机构。 
 
 ### 与其他网站的链接
 
@@ -115,5 +115,7 @@ cookies是网站存储在您的硬盘上的很小的数据文档。在其诸多�
 
 ### 问题和反馈
 
-如果您对本政策存在任何疑问或您还有其他顾虑无法在此找到解答，您可通过以下方式联系我们：客户服务热线：400-070-9588，邮箱：[dst](http://localhost:4900/www.dst.im)@aosone.cn。
+如果您对本政策存在任何疑问或您还有其他顾虑无法在此找到解答，您可通过以下方式联系我们：
+
+客户服务热线：400-070-9588     电子邮箱：[dst](http://localhost:4900/www.dst.im)@aosone.cn。
 
