@@ -7,14 +7,18 @@
 * [声明](jian-jie/shengming.md)
 * [项目术语](jian-jie/xiangmushuyu.md)
 * [项目介绍](jian-jie/xiangmujieshao.md)
-* [核心概念：共建共享，把风险关进笼子里](jian-jie/hexingainin.md)
+* [项目理念与概念](jian-jie/tbk-xiang-mu-gai-nian/README.md)
+  * [核心理念](jian-jie/tbk-xiang-mu-gai-nian/hexingainin.md)
+  * [透明化价值](jian-jie/tbk-xiang-mu-gai-nian/tou-ming-hua-jia-zhi.md)
+  * [财务费用转为营销费用](jian-jie/tbk-xiang-mu-gai-nian/cai-wu-fei-yong-zhuan-wei-ying-xiao-fei-yong.md)
+  * [把风险关进笼子里](jian-jie/tbk-xiang-mu-gai-nian/bafengxianguanjinlongzili.md)
 * [汽车是TBK的第一个品类](jian-jie/qi-che-shi-tbk-de-di-yi-ge-pin-lei.md)
 * [我与你之间的关系](jian-jie/wo-yu-ni-zhi-jian-de-guan-xi.md)
-* [透明化价值](jian-jie/tou-ming-hua-jia-zhi.md)
-* [财务费用转为营销费用](jian-jie/cai-wu-fei-yong-zhuan-wei-ying-xiao-fei-yong.md)
-* [把风险关进笼子里](jian-jie/bafengxianguanjinlongzili.md)
 * [保证金制度](jian-jie/bao-zheng-jin-zhi-du.md)
 * [TBK 的利润来源](jian-jie/tbk-de-li-run-lai-yuan.md)
+* [产品发布路线图](jian-jie/chanpinfabuluxiantu/README.md)
+  * [产品研发](jian-jie/chanpinfabuluxiantu/chan-pin-yan-fa.md)
+  * [市场推进](jian-jie/chanpinfabuluxiantu/shi-chang-tui-jin.md)
 
 ## 入住平台
 
@@ -126,12 +130,6 @@
 * [垫税协议](yonghu-xieyi/dian-shui-xie-yi.md)
 * [风险处置-拍卖协议](yonghu-xieyi/feng-xian-chu-zhi-pai-mai-xie-yi.md)
 * [版权声明](yonghu-xieyi/ban-quan-sheng-ming.md)
-
-## 产品进度
-
-* [产品发布路线图](chanpinjindu/chanpinfabuluxiantu.md)
-* [产品研发](chanpinjindu/chan-pin-yan-fa.md)
-* [市场推进](chanpinjindu/shi-chang-tui-jin.md)
 
 ## 关于我们
 
