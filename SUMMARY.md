@@ -22,6 +22,11 @@
   * [产品研发](jian-jie/chanpinfabuluxiantu/chan-pin-yan-fa.md)
   * [市场推进](jian-jie/chanpinfabuluxiantu/shi-chang-tui-jin.md)
 
+## 抽奖
+
+* [VIN抽奖](chou-jiang/vin-chou-jiang.md)
+* [注册认证抽奖](chou-jiang/zhu-ce-ren-zheng-chou-jiang.md)
+
 ## 入住平台
 
 * [入驻说明](ruzhupingtai/ru-zhu-shuo-ming.md)
