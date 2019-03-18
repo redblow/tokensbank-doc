@@ -16,3 +16,9 @@ description: 个人实名认证操作步骤
 
 ![](../../.gitbook/assets/3.png)
 
+4. 填写收到的”短信验证码“，点击”短信认证“
+
+![](../../.gitbook/assets/4.png)
+
+5. ”个人实名认证“完成。
+
