@@ -1,18 +1,18 @@
 # 注册AOS个人账户
 
-#### 登录AOSONE.COM.CN，进行帐户注册
+#### 登录[aosone.com.cn](https://www.aosone.com.cn/)，进行帐户注册
 
-![](../../.gitbook/assets/6d83bd31-03b8-49e3-8690-0dac8f5bbff4.png)
+#### 1. 点击“登录”按钮：
 
-#### 登录帐户进行实名认证。实名认证需要验证你的手机号与身份证号是否一致，请务必使用与备案身份一致的手机号进行实名认证。
+![](../../.gitbook/assets/ge-ren-zhu-ce-1.png)
 
-![](../../.gitbook/assets/3a643232-eeb1-432d-be4e-ec502f3378f7-2.png)
+2.  点击“还没有账户？”：
 
-![](../../.gitbook/assets/80fa472a-d128-4fb0-854b-77683d2bc2d6%20%281%29.png)
+![](../../.gitbook/assets/ge-ren-zhu-ce-2.png)
 
-![](../../.gitbook/assets/4c40ba76-ad45-44b7-b952-e70038ec75c7.png)
+3. 填写资料，提交注册：
 
-注意：此界面开始进行备案，请严格按照说明进行。
+![](../../.gitbook/assets/ge-ren-zhu-ce-3.png)
 
-![](../../.gitbook/assets/478a8643f178475a9646121da6eda61d-fu-ben.png)
+4. 完成个人账户注册。完成“[实名认证](https://help.tokensbank.com.cn/~/drafts/-LaF1ZF9F_f1d6OMxOV0/primary/ruzhupingtai/ge-ren-ru-zhu-cheng-xu/ge-ren-shi-ming-ren-zheng)”后，激活账户。
 

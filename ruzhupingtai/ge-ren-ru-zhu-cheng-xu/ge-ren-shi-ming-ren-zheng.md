@@ -10,7 +10,7 @@ description: 个人实名认证操作步骤
 
 2. 进入“实名认证”：
 
-![](../../.gitbook/assets/2.png)
+![](../../.gitbook/assets/2%20%281%29.png)
 
 3. 填写实名资料后提交：
 
